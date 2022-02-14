@@ -1,2 +1,5 @@
-# all-english-verbs
-All English Verbs(~ 22,000), with Present Participle, Simple Past and Past Participle Forms. Data scraped from: https://pasttenses.com/
+### All English Verbs
+All English Verbs, about 22,000. With Present Participle (-ing), Simple Past and Past Participle Forms. 
+Available inside an Excel Sheet.
+
+Data was scraped from: https://pasttenses.com/ by a python script.
